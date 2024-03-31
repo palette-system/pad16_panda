@@ -11,6 +11,9 @@ A0～A7、B0～B7の全ピンがダイレクト接続となっていてダイオ
 I2C接続にてAZ-COREやえむごっちと接続して使用して下さい。<br>
 <br><br>
 
+## IOエキスパンダのアドレス設定
+
+<img src="/images/jumper_setting.png">
 
 ## TRRSジャック
 
