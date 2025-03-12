@@ -11,6 +11,11 @@ A0～A7、B0～B7の全ピンがダイレクト接続となっていてダイオ
 I2C接続にてAZ-COREやえむごっちと接続して使用して下さい。<br>
 <br><br>
 
+秋月電子「16bit I2C I/Oエキスパンダー MCP23017」のリンク<br>
+<a href="https://akizukidenshi.com/catalog/g/g109486/">https://akizukidenshi.com/catalog/g/g109486/</a><br>
+
+<br><br>
+
 ## IOエキスパンダのアドレス設定
 
 <img src="/images/jumper_setting.png">
@@ -42,5 +47,16 @@ I2C接続にてAZ-COREやえむごっちと接続して使用して下さい。<
 </table>
 <br><br>
 
+## KLEのJSON
+```
+["","","",""],
+["","","",""],
+["","","",""],
+["","","",""]
+```
+<br><br>
 
+
+### AZのキーボードに接続後、AZTOOLで「オプション」→「IOエキスパンダ追加」で追加すると使用できるようになります
+https://x.com/4py1/status/1516453879709245442<br>
 
